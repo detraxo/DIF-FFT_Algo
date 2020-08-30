@@ -18,7 +18,7 @@ def w(n, k , conj):
 print("Enter the number of samples : " , end = "")
 n = int(input())
 
-#to find smalles power of 2 greater than or equal to n
+#to find smallest power of 2 greater than or equal to n
 p = 1
 if not(n and not(n & (n-1))):
     while(p < n):
