@@ -1,5 +1,5 @@
 # DIF-FFT_Algo
-Python script that computes Discrete Fourier Transform and Inverse Discrete Fourier Transform using Decimation in Frequency Fast Fourier Transform Algorithm. Computes FFT of upto 1000 point samples.
+Discrete time Fourier Transform using DIF-FFT (radix-2). Upto 1000 samples.
 
 #### *Time Complexity :*
 > ## ***O(n log n)***
